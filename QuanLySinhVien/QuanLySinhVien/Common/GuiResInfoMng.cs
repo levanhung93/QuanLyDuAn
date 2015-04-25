@@ -39,7 +39,8 @@ namespace QuanLySinhVien.Common
             BangDiemScreen,
             BaoCaoThongKeScreen,
             TroGiupScreen,
-            TrangChuScreen
+            TrangChuScreen,
+            CapLaiMatKhauScreen
         }
         #endregion Enum
 
