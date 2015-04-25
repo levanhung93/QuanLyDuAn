@@ -50,6 +50,7 @@
             this._menuThayDoiMK = new System.Windows.Forms.ToolStripMenuItem();
             this._menuDangXuat = new System.Windows.Forms.ToolStripMenuItem();
             this._panelMain = new System.Windows.Forms.Panel();
+            this._menuCapLaiMatKhau = new System.Windows.Forms.ToolStripMenuItem();
             this._panelTop.SuspendLayout();
             this._panelBottom.SuspendLayout();
             this._panelTopRight.SuspendLayout();
@@ -309,7 +310,7 @@
             this._taiKhoan});
             this._menuTaiKhoan.Location = new System.Drawing.Point(19, 48);
             this._menuTaiKhoan.Name = "_menuTaiKhoan";
-            this._menuTaiKhoan.Size = new System.Drawing.Size(88, 24);
+            this._menuTaiKhoan.Size = new System.Drawing.Size(180, 24);
             this._menuTaiKhoan.TabIndex = 8;
             this._menuTaiKhoan.Text = "menuStrip1";
             // 
@@ -317,7 +318,8 @@
             // 
             this._taiKhoan.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this._menuThayDoiMK,
-            this._menuDangXuat});
+            this._menuDangXuat,
+            this._menuCapLaiMatKhau});
             this._taiKhoan.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this._taiKhoan.Name = "_taiKhoan";
             this._taiKhoan.Size = new System.Drawing.Size(80, 20);
@@ -349,6 +351,13 @@
             this._panelMain.Name = "_panelMain";
             this._panelMain.Size = new System.Drawing.Size(1024, 486);
             this._panelMain.TabIndex = 6;
+            // 
+            // _menuCapLaiMatKhau
+            // 
+            this._menuCapLaiMatKhau.Image = global::QuanLySinhVien.Properties.Resources.CHANGE_PASSWORD;
+            this._menuCapLaiMatKhau.Name = "_menuCapLaiMatKhau";
+            this._menuCapLaiMatKhau.Size = new System.Drawing.Size(186, 22);
+            this._menuCapLaiMatKhau.Text = "Cấp lại mật khẩu";
             // 
             // MainStudent
             // 
@@ -402,6 +411,7 @@
         private System.Windows.Forms.ToolStripMenuItem _menuThayDoiMK;
         private System.Windows.Forms.ToolStripMenuItem _menuDangXuat;
         private System.Windows.Forms.Label _lbScreenInfo;
+        private System.Windows.Forms.ToolStripMenuItem _menuCapLaiMatKhau;
     }
 }
 

@@ -80,6 +80,12 @@
     <Compile Include="GUI\BaoCaoThongKe\BaoCaoThongKe.Designer.cs">
       <DependentUpon>BaoCaoThongKe.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\CapLaiMatKhau\CapLaiMatKhau.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\CapLaiMatKhau\CapLaiMatKhau.Designer.cs">
+      <DependentUpon>CapLaiMatKhau.cs</DependentUpon>
+    </Compile>
     <Compile Include="GUI\DangKyDeTai\DangKyDeTai.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -170,6 +176,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\BaoCaoThongKe\BaoCaoThongKe.resx">
       <DependentUpon>BaoCaoThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\CapLaiMatKhau\CapLaiMatKhau.resx">
+      <DependentUpon>CapLaiMatKhau.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\DangKyDeTai\DangKyDeTai.resx">
       <DependentUpon>DangKyDeTai.cs</DependentUpon>
@@ -280,6 +289,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\kieu-an-tuyen-thuc-tap-sinh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHANGE PASSWORD.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

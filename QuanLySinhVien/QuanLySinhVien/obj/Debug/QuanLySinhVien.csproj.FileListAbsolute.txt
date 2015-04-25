@@ -213,3 +213,5 @@ C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Deb
 C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.TroGiup.resources
 C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
 C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Users\My PC\Desktop\QuanLyDuAn\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\My PC\Desktop\QuanLyDuAn\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb

@@ -113,6 +113,16 @@ namespace QuanLySinhVien.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap CHANGE_PASSWORD {
+            get {
+                object obj = ResourceManager.GetObject("CHANGE PASSWORD", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap clipboard_paste {
             get {
                 object obj = ResourceManager.GetObject("clipboard_paste", resourceCulture);
