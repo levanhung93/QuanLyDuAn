@@ -153,6 +153,9 @@ namespace QuanLySinhVien.Common
                 case ScreenID.TrangChuScreen:
                     str=@"Trang chủ";
                     break;
+                case ScreenID.CapLaiMatKhauScreen:
+                    str = @"Cấp lại mật khẩu";
+                    break;
                 default:
                     throw new ArgumentOutOfRangeException(_SCREEN_ID_NOT_FOUND);
             }
@@ -195,6 +198,9 @@ namespace QuanLySinhVien.Common
                     break;
                 case ScreenID.TrangChuScreen:
                     intance = new TrangChu();
+                    break;
+                case ScreenID.CapLaiMatKhauScreen:
+                    intance = new CapLaiMatKhau();
                     break;
                 default:
                     throw new ArgumentOutOfRangeException(_SCREEN_ID_NOT_FOUND);
