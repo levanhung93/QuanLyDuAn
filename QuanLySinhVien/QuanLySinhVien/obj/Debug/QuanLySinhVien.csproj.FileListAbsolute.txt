@@ -1,0 +1,215 @@
+D:\STUDY\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\STUDY\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\STUDY\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+D:\STUDY\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\STUDY\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+D:\STUDY\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\STUDY\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\STUDY\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainStuden.resources
+D:\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+D:\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainStuden.resources
+D:\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+D:\STUDY\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangNhap.resources
+D:\STUDY\QuanLyDuAn\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\STUDY\QuanLyDuAn\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\STUDY\QuanLyDuAn\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\STUDY\QuanLyDuAn\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\STUDY\QuanLyDuAn\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Data.SQLite.dll
+D:\STUDY\QuanLyDuAn\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Data.SQLite.xml
+D:\STUDY\QuanLyDuAn\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+D:\STUDY\QuanLyDuAn\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangNhap.resources
+D:\STUDY\QuanLyDuAn\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainStuden.resources
+D:\STUDY\QuanLyDuAn\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\STUDY\QuanLyDuAn\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Users\Hamlet Hung\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\Hamlet Hung\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\Hamlet Hung\Desktop\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\Hamlet Hung\Desktop\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\Hamlet Hung\Desktop\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hamlet Hung\Desktop\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hamlet Hung\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+C:\Users\Hamlet Hung\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangNhap.resources
+C:\Users\Hamlet Hung\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainStuden.resources
+C:\Users\Hamlet Hung\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\Hamlet Hung\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Users\My PC\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\My PC\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\My PC\Desktop\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\My PC\Desktop\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\My PC\Desktop\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Data.SQLite.xml
+C:\Users\My PC\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.BangDiem.BangDiem.resources
+C:\Users\My PC\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.BaoCaoThongKe.BaoCaoThongKe.resources
+C:\Users\My PC\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangKyDeTai.DangKyDeTai.resources
+C:\Users\My PC\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangNhap.resources
+C:\Users\My PC\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DeTaiThucTap.DeTaiThucTap.resources
+C:\Users\My PC\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.GiaoVienHuongDan.GiaoVienHuongDan.resources
+C:\Users\My PC\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.HuyDeTaiDangKy.HuyDeTaiDangKy.resources
+C:\Users\My PC\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainStuden.resources
+C:\Users\My PC\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.SinhVienThucTap.SinhVienThucTap.resources
+C:\Users\My PC\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.ThayDoiMatKhau._frmThayDoiMatKhau.resources
+C:\Users\My PC\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\My PC\Desktop\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.BangDiem.resources
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.BaoCaoThongKe.resources
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangKyDeTai.resources
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangNhap.resources
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DeTaiThucTap.resources
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.GiaoVienHuongDan.resources
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.HuyDeTaiDangKy.resources
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.SinhVienThucTap.resources
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Data.SQLite.xml
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.TroGiup.resources
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI._frmThayDoiMatKhau.resources
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.DialogContent_OK.resources
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.DialogContent_YESNO.resources
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.MessageDialog.resources
+C:\Users\My PC\Desktop\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainStudent.resources
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Data.SQLite.xml
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.DialogContent_OK.resources
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.DialogContent_YESNO.resources
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.MessageDialog.resources
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.BangDiem.resources
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.BaoCaoThongKe.resources
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangKyDeTai.resources
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangNhap.resources
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DeTaiThucTap.resources
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.GiaoVienHuongDan.resources
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.HuyDeTaiDangKy.resources
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainStudent.resources
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.SinhVienThucTap.resources
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI._frmThayDoiMatKhau.resources
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.TroGiup.resources
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+E:\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Data.SQLite.xml
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.DialogContent_OK.resources
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.DialogContent_YESNO.resources
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.MessageDialog.resources
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.BangDiem.resources
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.BaoCaoThongKe.resources
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangKyDeTai.resources
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangNhap.resources
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DeTaiThucTap.resources
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.GiaoVienHuongDan.resources
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.HuyDeTaiDangKy.resources
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainStudent.resources
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.SinhVienThucTap.resources
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI._frmThayDoiMatKhau.resources
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.TroGiup.resources
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\My PC\Desktop\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+D:\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\QuanLySinhVienThucTap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Data.SQLite.xml
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.DialogContent_OK.resources
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.DialogContent_YESNO.resources
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.MessageDialog.resources
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.BangDiem.resources
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.BaoCaoThongKe.resources
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangKyDeTai.resources
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangNhap.resources
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DeTaiThucTap.resources
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.GiaoVienHuongDan.resources
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.HuyDeTaiDangKy.resources
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainStudent.resources
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.SinhVienThucTap.resources
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI._frmThayDoiMatKhau.resources
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.TroGiup.resources
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\QuanLySinhVienThucTap - Copy\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Data.SQLite.xml
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.DialogContent_OK.resources
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.DialogContent_YESNO.resources
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.MessageDialog.resources
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.BangDiem.resources
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.BaoCaoThongKe.resources
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangKyDeTai.resources
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangNhap.resources
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DeTaiThucTap.resources
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.GiaoVienHuongDan.resources
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.HuyDeTaiDangKy.resources
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainStudent.resources
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.SinhVienThucTap.resources
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI._frmThayDoiMatKhau.resources
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.TroGiup.resources
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\My PC\Downloads\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Data.SQLite.xml
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.DialogContent_OK.resources
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.DialogContent_YESNO.resources
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.MessageDialog.resources
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.BangDiem.resources
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.BaoCaoThongKe.resources
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangKyDeTai.resources
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangNhap.resources
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DeTaiThucTap.resources
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.GiaoVienHuongDan.resources
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.HuyDeTaiDangKy.resources
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainStudent.resources
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.SinhVienThucTap.resources
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI._frmThayDoiMatKhau.resources
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.TroGiup.resources
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Users\My PC\Desktop\Nhóm 9\QLSV\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.TrangChu.resources
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\bin\Debug\System.Data.SQLite.xml
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.DialogContent_OK.resources
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.DialogContent_YESNO.resources
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Common.MessageDialog.resources
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.BangDiem.resources
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.BaoCaoThongKe.resources
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangKyDeTai.resources
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DangNhap.resources
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.DeTaiThucTap.resources
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.GiaoVienHuongDan.resources
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.HuyDeTaiDangKy.resources
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.MainStudent.resources
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.SinhVienThucTap.resources
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI._frmThayDoiMatKhau.resources
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.TrangChu.resources
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.TroGiup.resources
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\My PC\Desktop\Quản lý dự án\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache

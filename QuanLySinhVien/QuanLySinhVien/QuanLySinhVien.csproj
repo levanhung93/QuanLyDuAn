@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FCE62B1C-31D4-4A0A-A16F-B6380FA06EA9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QuanLySinhVien</RootNamespace>
+    <AssemblyName>QuanLySinhVien</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SQLite, Version=1.0.66.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\SQLite.NET\bin\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\DatabaseCore.cs" />
+    <Compile Include="Common\DatabaseCorePartial.cs" />
+    <Compile Include="Common\DialogContent_OK.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Common\DialogContent_OK.Designer.cs">
+      <DependentUpon>DialogContent_OK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\DialogContent_YESNO.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Common\DialogContent_YESNO.Designer.cs">
+      <DependentUpon>DialogContent_YESNO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\GuiResInfoMng.cs" />
+    <Compile Include="Common\MessageDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Common\MessageDialog.Designer.cs">
+      <DependentUpon>MessageDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\BangDiem\BangDiem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\BangDiem\BangDiem.Designer.cs">
+      <DependentUpon>BangDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\BangDiem\BangDiemAttribute.cs" />
+    <Compile Include="GUI\BangDiem\BangDiemController.cs" />
+    <Compile Include="GUI\BaoCaoThongKe\BaoCaoThongKe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\BaoCaoThongKe\BaoCaoThongKe.Designer.cs">
+      <DependentUpon>BaoCaoThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\DangKyDeTai\DangKyDeTai.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\DangKyDeTai\DangKyDeTai.Designer.cs">
+      <DependentUpon>DangKyDeTai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\DangKyDeTai\DangKyDeTaiAttribute.cs" />
+    <Compile Include="GUI\DangKyDeTai\DangKyDeTaiController.cs" />
+    <Compile Include="GUI\DangNhap\DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\DangNhap\DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\DangNhap\DangNhapController.cs" />
+    <Compile Include="GUI\DangNhap\TaiKhoanAttribute.cs" />
+    <Compile Include="GUI\DeTaiThucTap\DeTaiThucTap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\DeTaiThucTap\DeTaiThucTap.Designer.cs">
+      <DependentUpon>DeTaiThucTap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\DeTaiThucTap\DeTaiThucTapAttribute.cs" />
+    <Compile Include="GUI\DeTaiThucTap\DeTaiThucTapController.cs" />
+    <Compile Include="GUI\GiaoVienHuongDan\GiaoVienAttribute.cs" />
+    <Compile Include="GUI\GiaoVienHuongDan\GiaoVienController.cs" />
+    <Compile Include="GUI\GiaoVienHuongDan\GiaoVienHuongDan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\GiaoVienHuongDan\GiaoVienHuongDan.Designer.cs">
+      <DependentUpon>GiaoVienHuongDan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\HuyDeTaiDangKy\HuyDeTaiDaDangKy_Controler.cs" />
+    <Compile Include="GUI\HuyDeTaiDangKy\HuyDeTaiDaDK_Attribute.cs" />
+    <Compile Include="GUI\HuyDeTaiDangKy\HuyDeTaiDangKy.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\HuyDeTaiDangKy\HuyDeTaiDangKy.Designer.cs">
+      <DependentUpon>HuyDeTaiDangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\MainStudent\MainStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\MainStudent\MainStudent.Designer.cs">
+      <DependentUpon>MainStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SinhVienThucTap\SinhVienAttribute.cs" />
+    <Compile Include="GUI\SinhVienThucTap\SinhVienController.cs" />
+    <Compile Include="GUI\SinhVienThucTap\SinhVienThucTap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\SinhVienThucTap\SinhVienThucTap.Designer.cs">
+      <DependentUpon>SinhVienThucTap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ThayDoiMatKhau\ThayDoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ThayDoiMatKhau\ThayDoiMatKhau.Designer.cs">
+      <DependentUpon>ThayDoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ThayDoiMatKhau\ThayDoiMatKhauAttribute.cs" />
+    <Compile Include="GUI\ThayDoiMatKhau\ThayDoiMatKhauController.cs" />
+    <Compile Include="GUI\TrangChu\TrangChu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\TrangChu\TrangChu.Designer.cs">
+      <DependentUpon>TrangChu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\TroGiup\TroGiup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\TroGiup\TroGiup.Designer.cs">
+      <DependentUpon>TroGiup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Common\DialogContent_OK.resx">
+      <DependentUpon>DialogContent_OK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\DialogContent_YESNO.resx">
+      <DependentUpon>DialogContent_YESNO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\MessageDialog.resx">
+      <DependentUpon>MessageDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\BangDiem\BangDiem.resx">
+      <DependentUpon>BangDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\BaoCaoThongKe\BaoCaoThongKe.resx">
+      <DependentUpon>BaoCaoThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\DangKyDeTai\DangKyDeTai.resx">
+      <DependentUpon>DangKyDeTai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\DangNhap\DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\DeTaiThucTap\DeTaiThucTap.resx">
+      <DependentUpon>DeTaiThucTap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GiaoVienHuongDan\GiaoVienHuongDan.resx">
+      <DependentUpon>GiaoVienHuongDan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\HuyDeTaiDangKy\HuyDeTaiDangKy.resx">
+      <DependentUpon>HuyDeTaiDangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\MainStudent\MainStudent.resx">
+      <DependentUpon>MainStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SinhVienThucTap\SinhVienThucTap.resx">
+      <DependentUpon>SinhVienThucTap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ThayDoiMatKhau\ThayDoiMatKhau.resx">
+      <DependentUpon>ThayDoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\TrangChu\TrangChu.resx">
+      <DependentUpon>TrangChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\TroGiup\TroGiup.resx">
+      <DependentUpon>TroGiup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\untitled.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_blue_background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\header.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_software.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard_paste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard_paste1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_top.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\footer.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout~2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doipass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11033350_412625648862521_279522555_o.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kieu-an-tuyen-thuc-tap-sinh.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
